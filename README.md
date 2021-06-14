@@ -1,4 +1,5 @@
-# Deep-neural-approach-to-colorise-monochrome-images
+# Deep-neural-approach-to-colorise-monochrome-images and grayscale videos
+
 
 This project was created for colourisation of monochrome images. This work of mine was inspired from the works done by Zhang et al. [Refer: Richard Zhang, Phillip Isola, Alexei A. Efros.Colorful Image Coloriza-tion.arXiv:1603.08511 [cs.CV]] .But I extended the idea of the project for colourising all sorts of monochrome images along with videos that are typically grayscale Eg. Surveillance camera footages. We have analysed the working of the model for video inputs by analysing frame rate (in per second) for each every frame and tried to draw a best feed line.
 
